@@ -12,10 +12,10 @@ Welcome to the Number Guessing Game! 🎲
 ## Getting Started
 1. Clone this repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/ErfanRahimii/python-Number-Guessing-Game.git
    ```
 2. Run the game:
-   ```bash
+    ```bash
    python number_guessing_game.py
    ```
 
